@@ -16,6 +16,6 @@ This is a command line application that allows you to insert your specific hand 
 </ul>
 
 # Video Demo
-<a href="https://www.loom.com/share/9cd3504fd41641fb82f59a59cae30575?sid=36ee34b4-1deb-41d5-ab49-48bfffbc5692">Click here to check out a video demo of how to use the app</a><br><br>
+<a href="https://www.loom.com/share/9cd3504fd41641fb82f59a59cae30575?sid=36ee34b4-1deb-41d5-ab49-48bfffbc5692" target="_blank">Click here to check out a video demo of how to use the app</a><br><br>
 
 <img src="https://github.com/GRumbea/poker-pre-flop-cli/blob/b86fd1f76aad49ec5431365940ece257e73f05b1/portfolio-pic-poker-cli-app.png" alt="demo image">
